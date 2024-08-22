@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Absensi Sekolah Brawijaya</string>
+
+    <array name="Kelas">
+        <item>Kelas</item>
+        <item>XI IPA 1</item>
+        <item>XI IPA 2</item>
+    </array>
+
+    <array name="Mapel">
+        <item>Mata Pelajaran</item>
+        <item>Matematika</item>
+        <item>Fisika</item>
+        <item>Biologi</item>
+        <item>Kimia</item>
+        <item>Agama</item>
+    </array>
+
+    <array name="Nama">
+        <item>Nama</item>
+        <item>Ilmi Nasrulloh</item>
+        <item>Budi Santoso</item>
+        <item>Ilyas Madin</item>
+        <item>Faris Wibowo</item>
+        <item>Nobuatsu Aoki</item>
+    </array>
+
+    <array name="Keterangan">
+        <item>Keterangan</item>
+        <item>Alfa</item>
+        <item>Sakit</item>
+        <item>Ijin</item>
+        <item>Hadir</item>
+    </array>
+</resources>
